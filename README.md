@@ -6,26 +6,24 @@ Full-stack engineer building **web platforms and APIs** with a strong front-end 
 
 ---
 
-## How I think (in one glance)
+## My principles
 
-| Principle | What it means in practice |
-|-----------|---------------------------|
-| Ethical UX | Transparent flows, honest copy, no dark patterns—**trust compounds** when the product respects the user. |
-| Speed | Perceived and actual performance—**silent killer** if neglected; first seconds decide whether the product feels “real”. |
-| Simplicity | **Ultimate sophistication**—fewer moving parts in UI and architecture unless complexity earns its keep. |
-| Design | **Intelligence made visible**—layout, type, and motion explain the system without a manual. |
-| Trust | **Built with consistency**—predictable releases, stable APIs, and UI that doesn’t surprise operators. |
-| Accessibility | **A responsibility**—keyboard paths, contrast, semantics—not a late checkbox. |
+- **Ethical UX** — honest flows, no dark patterns; trust compounds when the product respects people.  
+- **Speed** — real and perceived performance; first seconds decide if the product feels credible.  
+- **Simplicity** — fewer moving parts in UI and architecture unless complexity earns its place.  
+- **Design** — layout, type, motion that explain the system without a manual.  
+- **Trust** — consistency in releases, APIs, and operator UI.  
+- **Accessibility** — keyboard paths, contrast, semantics—not a late checkbox.
 
 ---
 
 ## What I do
 
-- Ship and evolve **line-of-business** and **consumer-facing** web applications end to end.  
-- Design and implement **REST APIs**, auth boundaries, and integration with external providers.  
-- Build **dashboards** and internal tools that stay understandable for non-developers.  
-- Prototype and harden **device-adjacent** features: telemetry, messaging, and firmware-adjacent coordination on **ESP32-class** hardware.  
-- Use **AI tools** as accelerators—**human review** stays in the loop for design and production decisions.
+- Ship **line-of-business** and **consumer-facing** web apps end to end.  
+- **REST APIs**, auth boundaries, external integrations.  
+- **Dashboards** and internal tools non-developers can actually use.  
+- **Device-adjacent** work: telemetry, messaging, ESP32-class coordination.  
+- **AI tools** as accelerators—humans stay in the loop on product and design calls.
 
 ---
 
@@ -54,48 +52,21 @@ Full-stack engineer building **web platforms and APIs** with a strong front-end 
 
 ## Featured projects
 
-| Focus | Repository |
-|--------|------------|
-| Consumer-facing comparison / protection tooling (informational; not a law firm) | [legal-ai-assistant](https://github.com/abbasrezaey1/legal-ai-assistant) |
-| Procurement / opportunity intelligence UI and workflows | [global-procurement-intelligence](https://github.com/abbasrezaey1/global-procurement-intelligence) |
-| Real-time translation / speech pipeline work | [realtime-ai-translation-engine](https://github.com/abbasrezaey1/realtime-ai-translation-engine) |
-| German language learning experience (web / PWA) | [german-learning-platform](https://github.com/abbasrezaey1/german-learning-platform) |
-| Enterprise-style PHP REST services | [secure-scalable-rest-api](https://github.com/abbasrezaey1/secure-scalable-rest-api) |
-| Distributed services on .NET | [distributed-microservice-architecture](https://github.com/abbasrezaey1/distributed-microservice-architecture) |
-
----
-
-## Professional focus
-
-- **Product-shaped engineering** — scope, trade-offs, and delivery that match business risk.  
-- **Clean architecture** — boundaries that survive team change and refactors.  
-- **Observable systems** — configuration, logging, and deployment paths people can run without tribal knowledge.  
-- **Security hygiene** — secrets out of source control, least privilege, sensible API exposure.
+- [legal-ai-assistant](https://github.com/abbasrezaey1/legal-ai-assistant) — consumer comparison / protection tooling (informational; not a law firm)  
+- [global-procurement-intelligence](https://github.com/abbasrezaey1/global-procurement-intelligence) — procurement / opportunity intelligence  
+- [realtime-ai-translation-engine](https://github.com/abbasrezaey1/realtime-ai-translation-engine) — real-time translation / speech  
+- [german-learning-platform](https://github.com/abbasrezaey1/german-learning-platform) — German learning (web / PWA)  
+- [secure-scalable-rest-api](https://github.com/abbasrezaey1/secure-scalable-rest-api) — enterprise-style PHP REST  
+- [distributed-microservice-architecture](https://github.com/abbasrezaey1/distributed-microservice-architecture) — distributed .NET services  
 
 ---
 
 ## Current interests
 
-- Tighter **TypeScript** contracts across Angular apps and API clients.  
-- **Edge + cloud** patterns for device telemetry (MQTT, back-pressure, retention).  
-- **Practical** use of AI for code review assistance, documentation, and test generation—without outsourcing judgment.
+- Tighter **TypeScript** across Angular apps and API clients.  
+- **Edge + cloud** for device telemetry (MQTT, back-pressure, retention).  
+- **Practical** AI for review, docs, tests—without outsourcing judgment.
 
 ---
 
-## GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abbasrezaey1&show_icons=true&hide_title=true&hide_border=true&count_private=false" alt="GitHub stats for abbasrezaey1" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbasrezaey1&layout=compact&hide_border=true&langs_count=8" alt="Top languages for abbasrezaey1" />
-</p>
-
-<p align="center"><sub>Stats are generated by a third-party service; if images fail to load, open your <a href="https://github.com/abbasrezaey1">public profile</a> directly.</sub></p>
-
----
-
-## Contact
-
-- **GitHub:** [github.com/abbasrezaey1](https://github.com/abbasrezaey1)  
-- **Site:** [abbasrezaey.de](https://abbasrezaey.de)  
-- **LinkedIn:** *add your public profile URL here*  
-- **Email:** *optional — add if you want it public in this README*
+**[abbasrezaey.de](https://abbasrezaey.de)**
