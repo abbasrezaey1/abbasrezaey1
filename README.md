@@ -52,10 +52,3 @@ LLM · RAG · LangChain · embeddings · LlamaIndex
 - [secure-scalable-rest-api](https://github.com/abbasrezaey1/secure-scalable-rest-api) — enterprise-style PHP REST  
 - [distributed-microservice-architecture](https://github.com/abbasrezaey1/distributed-microservice-architecture) — distributed .NET services  
 
----
-
-## Current interests
-
-- Tighter **TypeScript** across Angular apps and API clients.  
-- **Edge + cloud** for device telemetry (MQTT, back-pressure, retention).  
-- **Practical** AI for review, docs, tests—without outsourcing judgment.
