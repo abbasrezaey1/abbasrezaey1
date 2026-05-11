@@ -1,39 +1,30 @@
 # Abbas Rezaey
 
-Full Stack Developer focused on scalable web applications, backend architecture, AI-powered systems, embedded solutions, and modern user experiences.
+Full Stack Developer focused on scalable web applications, backend architecture, AI-powered systems, IoT integrations, automation platforms, and modern user experiences.
 
-I build high-performance software products from architecture and development to deployment and optimization, with strong attention to clean engineering, usability, scalability, and maintainability.
+I build high-performance software products from concept and architecture to development, testing, deployment, and optimization.
 
 ---
 
 ## How I Work
 
-I believe software should be fast, reliable, maintainable, and genuinely useful for real users.
+I work based on the first principle that ethical UX builds long-term trust. I ship experiences where simplicity is the ultimate sophistication, design is intelligence made visible, and good UX turns visitors into customers.
 
-My work focuses on:
-- clean architecture
-- scalable backend systems
-- modern frontend engineering
-- intuitive dashboards
-- maintainable APIs
-- responsive UX
-- embedded integrations
-- AI-assisted workflows
-
-Performance, usability, and reliability are treated as one engineering problem rather than separate concerns.
+Trust is built with consistency. Accessibility is not a feature, it is a responsibility. Performance is part of that contract. A slow website is a silent business killer. In fact, a slow website can lose most users within the first few seconds of a visit, so I treat latency, clarity, and reliability as one problem, not three.
 
 ---
 
 ## What I Do
 
-- Build enterprise-grade web applications
-- Develop scalable REST APIs and backend systems
-- Design modern Angular dashboards and admin platforms
-- Create AI-assisted productivity tools
-- Build ESP32 and embedded communication systems
-- Integrate MQTT-based real-time systems
-- Develop automation and workflow solutions
-- Architect maintainable frontend/backend infrastructures
+- Build enterprise-grade frontend and backend applications
+- Develop scalable REST APIs and service-oriented systems
+- Design modern Angular dashboards, platforms, and administrative interfaces
+- Establish reliable communication between backend services, external platforms, and IoT systems
+- Integrate APIs, realtime messaging systems, and cross-platform workflows
+- Develop automation and business process solutions
+- Create AI-assisted productivity and operational tools
+- Architect maintainable, scalable, and user-focused software systems
+- Build connected device and smart system integrations for realtime data exchange
 
 ---
 
@@ -49,7 +40,7 @@ Performance, usability, and reliability are treated as one engineering problem r
 <img src="https://img.shields.io/badge/NgRx-BA2BD2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
@@ -64,12 +55,12 @@ Performance, usability, and reliability are treated as one engineering problem r
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 <img src="https://img.shields.io/badge/OAuth2-3C3C3C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge"/>
 </p>
 
-### AI & Automation
+### AI and Automation
 
 <p>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
@@ -80,7 +71,7 @@ Performance, usability, and reliability are treated as one engineering problem r
 <img src="https://img.shields.io/badge/AI_Tools-111111?style=for-the-badge"/>
 </p>
 
-### Databases & Infrastructure
+### Databases and Infrastructure
 
 <p>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -97,51 +88,47 @@ Performance, usability, and reliability are treated as one engineering problem r
 ## Featured Projects
 
 ### Legal AI Assistant
-AI-powered consumer protection and legal assistance platform.
+
+AI-powered consumer protection and legal assistance platform focused on structured case analysis and user guidance.
 
 ### Global Procurement Intelligence
-Procurement and opportunity aggregation platform with intelligent filtering.
+
+Procurement and opportunity intelligence platform with search, filtering, and multi-source data handling.
 
 ### Realtime AI Translation Engine
-Real-time multilingual translation and communication workflows.
+
+Realtime multilingual translation system for German, English, Farsi, and Kurdish communication workflows.
 
 ### German Learning Platform
-Interactive German-learning platform with practical conversation structures.
+
+Interactive German learning platform focused on practical phrases, communication, and daily-use language.
 
 ### Secure Scalable REST API
-Enterprise-focused backend API architecture with authentication and scalability.
+
+Enterprise-style backend API architecture with structured responses, authentication, and maintainable PHP logic.
 
 ### Distributed Microservice Architecture
-Scalable distributed backend services and communication systems.
+
+Microservice-based backend architecture focused on service separation, scalability, and reliable communication.
 
 ---
 
 ## GitHub Statistics
 
-<p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abbasrezaey1&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbasrezaey1&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abbasrezaey1&show_icons=true&theme=transparent&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abbasrezaey1&layout=compact&theme=transparent&hide_border=true)
 
 ---
 
 ## Professional Focus
 
-- Enterprise Applications
-- AI-assisted Platforms
-- Dashboard Systems
-- Angular Architecture
-- API Engineering
-- Embedded Systems
-- Automation Platforms
-- Scalable Backend Infrastructure
-- Real-time Communication Systems
-
----
-
-## Contact
-
-- GitHub: https://github.com/abbasrezaey1
-- LinkedIn: Add your LinkedIn here
-- Portfolio: Add your portfolio here
-- Email: Add your professional email here
+- Enterprise applications
+- AI-assisted platforms
+- Dashboard systems
+- Angular architecture
+- API engineering
+- IoT integrations
+- Automation platforms
+- Scalable backend infrastructure
+- Realtime communication systems
