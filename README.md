@@ -87,37 +87,29 @@ Trust is built with consistency. Accessibility is not a feature, it is a respons
 
 ## Featured Projects
 
-### Legal AI Assistant
+### [Legal AI Assistant](https://github.com/abbasrezaey1/legal-ai-assistant)
 
 AI-powered consumer protection and legal assistance platform focused on structured case analysis and user guidance.
 
-### Global Procurement Intelligence
+### [Global Procurement Intelligence](https://github.com/abbasrezaey1/global-procurement-intelligence)
 
 Procurement and opportunity intelligence platform with search, filtering, and multi-source data handling.
 
-### Realtime AI Translation Engine
+### [Realtime AI Translation Engine](https://github.com/abbasrezaey1/realtime-ai-translation-engine)
 
 Realtime multilingual translation system for German, English, Farsi, and Kurdish communication workflows.
 
-### German Learning Platform
+### [German Learning Platform](https://github.com/abbasrezaey1/german-learning-platform)
 
 Interactive German learning platform focused on practical phrases, communication, and daily-use language.
 
-### Secure Scalable REST API
+### [Secure Scalable REST API](https://github.com/abbasrezaey1/secure-scalable-rest-api)
 
 Enterprise-style backend API architecture with structured responses, authentication, and maintainable PHP logic.
 
-### Distributed Microservice Architecture
+### [Distributed Microservice Architecture](https://github.com/abbasrezaey1/distributed-microservice-architecture)
 
 Microservice-based backend architecture focused on service separation, scalability, and reliable communication.
-
----
-
-## GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abbasrezaey1&show_icons=true&theme=transparent&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abbasrezaey1&layout=compact&theme=transparent&hide_border=true)
 
 ---
 
