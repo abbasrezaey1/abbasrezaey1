@@ -2,18 +2,7 @@
 
 Full-stack engineer building **web platforms and APIs** with a strong front-end bias (**Angular**, **TypeScript**) and solid server-side work in **PHP** and **Laravel**. I integrate **REST** services, design **operator-facing dashboards**, and connect software to the physical world through **MQTT**, **ESP32**, and broader **embedded** concerns—**clean structure**, **maintainability**, and **honest scope** first.
 
-**Ethical UX builds long-term trust.** I ship experiences where **simplicity is the ultimate sophistication**, **design is intelligence made visible**, and **good UX turns visitors into customers**. **Trust is built with consistency**; **accessibility is not a feature—it’s a responsibility**. Performance is part of that contract: **a slow website is a silent business killer**—**a slow website loses 94% of users in the first few seconds of a visit**—so I treat latency, clarity, and reliability as one problem, not three.
-
----
-
-## My principles
-
-- **Ethical UX** — honest flows, no dark patterns; trust compounds when the product respects people.  
-- **Speed** — real and perceived performance; first seconds decide if the product feels credible.  
-- **Simplicity** — fewer moving parts in UI and architecture unless complexity earns its place.  
-- **Design** — layout, type, motion that explain the system without a manual.  
-- **Trust** — consistency in releases, APIs, and operator UI.  
-- **Accessibility** — keyboard paths, contrast, semantics—not a late checkbox.
+**I work based on the first principle that ethical UX builds long-term trust.** I ship experiences where **simplicity is the ultimate sophistication**, **design is intelligence made visible**, and **good UX turns visitors into customers**. **Trust is built with consistency**; **accessibility is not a feature—it’s a responsibility**. Performance is part of that contract: **a slow website is a silent business killer**—**a slow website loses 94% of users in the first few seconds of a visit**—so I treat latency, clarity, and reliability as one problem, not three.
 
 ---
 
