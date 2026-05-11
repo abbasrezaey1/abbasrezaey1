@@ -29,24 +29,17 @@ Full-stack engineer building **web platforms and APIs** with a strong front-end 
 
 ## Tech stack
 
-**Core**
+### Frontend
 
-[![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)](https://angular.dev/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)](https://www.php.net/)
-[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)](https://laravel.com/)
-[![REST](https://img.shields.io/badge/REST%20APIs-333333?logo=openapiinitiative&logoColor=white)](https://swagger.io/specification/)
+Angular · TypeScript · RxJS · NgRx · Tailwind CSS · React · Vue.js · SCSS · Bootstrap
 
-**Systems & devices**
+### Backend
 
-[![MQTT](https://img.shields.io/badge/MQTT-660066?logo=eclipsemosquitto&logoColor=white)](https://mqtt.org/)
-[![ESP32](https://img.shields.io/badge/ESP32-E7352C?logo=espressif&logoColor=white)](https://www.espressif.com/)
-[![Embedded](https://img.shields.io/badge/Embedded-222222)](#)
+Python · PHP · Laravel · Java · Node.js · Qt · C++ · OAuth2 · Kotlin · REST API · JWT
 
-**Delivery**
+### AI engineering
 
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
-[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
+LLM · RAG · LangChain · embeddings · LlamaIndex
 
 ---
 
@@ -66,7 +59,3 @@ Full-stack engineer building **web platforms and APIs** with a strong front-end 
 - Tighter **TypeScript** across Angular apps and API clients.  
 - **Edge + cloud** for device telemetry (MQTT, back-pressure, retention).  
 - **Practical** AI for review, docs, tests—without outsourcing judgment.
-
----
-
-**[abbasrezaey.de](https://abbasrezaey.de)**
